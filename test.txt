@@ -1,0 +1,3 @@
+This is DK
+I am making a APP right now
+It is hard to learn about computer languages, ex)dart, git, github so on...
